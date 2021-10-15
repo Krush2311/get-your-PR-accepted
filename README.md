@@ -6,6 +6,8 @@
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your contribution to <b>Open Source</b> projects during _Hacktoberfest 2021_, follow the steps below.
 
+<h3><p align="center">P.S.: This is a <i>DS-ALGO HELPER REPO</i>! You have to add the above mentioned algos into this "<i>fill-up series</i>" repository.</p></h3>
+
 _If you're not comfortable with command line, [here are tutorials using Git GUI tool.](https://www.geeksforgeeks.org/working-on-git-for-gui/)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
@@ -36,7 +38,7 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/this-is-you/get-your-PR-accepted.git
 ```
 
 where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
@@ -58,10 +60,10 @@ git checkout -b your-new-branch-name
 For example:
 
 ```
-git checkout -b add-alonzo-church
+git checkout -b add-your-name
 ```
 
-(The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+(The name of the branch does not need to have the word _add-your-name_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to the contributors list.)
 
 ## Make necessary changes and commit those changes
 
@@ -113,4 +115,9 @@ Congrats! You just completed the standard _fork -> clone -> edit -> pull request
 
 Now let's get you started with contributing to other projects. I have compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
-# Thank You!
+## Contributors
+<a href = "https://github.com/SamarjeetBanik/get-your-PR-accepted/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=SamarjeetBanik/get-your-PR-accepted"/>
+</a>
+
+<h1 align="center">Thank You!</h1>
