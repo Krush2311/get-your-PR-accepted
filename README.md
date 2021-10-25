@@ -101,6 +101,7 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
+
 Now submit the pull request.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
@@ -112,5 +113,6 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
 
 Now let's get you started with contributing to other projects. I have compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
+
 
 # Thank You!
